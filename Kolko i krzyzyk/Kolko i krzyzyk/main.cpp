@@ -63,12 +63,12 @@ void GetPlayerInput()
 			}
 			else
 			{
-				cout << "To pole jest juz zajete! Sproboj ponownie. ";
+				cout << "To pole jest juz zajete! Sproboj ponownie. " << endl;
 			}
 		}
 		else
 		{
-			cout << "Wprowadzono zle wspolrzedne, sproboj ponownie.";
+			cout << "Wprowadzono zle wspolrzedne, sproboj ponownie." << endl;
 		}
 	}
 }
